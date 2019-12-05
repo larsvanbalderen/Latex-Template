@@ -1,2 +1,2 @@
 # Latex-Template
-A Latex template with cheat sheet
+A simple Latex template with cheat sheet
